@@ -14,19 +14,14 @@
 
 <div>
 
-<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"  title="facebook" alt="facebook" width="40" height="40"/>&nbsp;
-<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" title="facebook" alt="facebook" width="40" height="40"/>&nbsp;
-<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" title="facebook" alt="facebook" width="40" height="40"/>&nbsp;
-<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" title="facebook" alt="facebook" width="40" height="40"/>&nbsp; -->
-
-[![twitter](https://img.icons8.com/external-justicon-flat-justicon/2x/external-twitter-social-media-justicon-flat-justicon.png)][1]
-[![linkedin](https://img.icons8.com/color/2x/linkedin.png)][2]
-[![instagram](https://img.icons8.com/fluency/2x/instagram-new.png)][3]
-[![facebook](https://img.icons8.com/external-justicon-flat-justicon/2x/external-facebook-social-media-justicon-flat-justicon.png)][4]
+[![twitter](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg)][1]
+[![linkedin](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg)][2]
+[![instagram](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg)][3]
+[![facebook](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg)][4]
 
 
-[1]: https://twitter.com/your_contact_info
-[2]: https://linkedin.com/your_contact_info
+[1]: https://twitter.com/PiumiAlu
+[2]: https://www.linkedin.com/in/piumi-aluvihare-1067261b9/
 [3]: https://www.linkedin.com/in/your_contact_info
 [4]: https://www.facebook.com/your_contact_info
 
