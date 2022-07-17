@@ -1,11 +1,14 @@
-## Hi there 👋 
+# Hi there 👋 
+---
 
+###  About me :
 
 - :girl: I'm Piumi
 - 🔭 I’m currently working on java and new technologies.
 - 🌱 I’m currently learning  Test design and Automation Testing.
 - 💬 Ask me about HTML , CSS , Js , Boostrap , PHP , Java and React.
 
+---
 
 ### Connect with me :
 
@@ -13,9 +16,9 @@
 https://www.linkedin.com/sharing/share-offsite/?url={url}
 https://www.facebook.com/sharer.php?u={url}
 
+---
 
-
-### Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -30,6 +33,10 @@ https://www.facebook.com/sharer.php?u={url}
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :
 
 
 
