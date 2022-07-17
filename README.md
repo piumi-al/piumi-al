@@ -7,15 +7,15 @@
 - 🌱 I’m currently learning  Test design and Automation Testing.
 - 💬 Ask me about HTML , CSS , Js , Boostrap , PHP , Java and React.
 
---
+---
 
 ### Connect with me :
 
 
 https://www.linkedin.com/sharing/share-offsite/?url={url}
-https://www.facebook.com/sharer.php?u={url}
-
---
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
+          
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -32,14 +32,12 @@ https://www.facebook.com/sharer.php?u={url}
  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
- <img src=" https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
- <img src=" https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Git" **alt="Git" width="40" height="40"/>
- <img src=" https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Git" **alt="Git" width="40" height="40"/>
- https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg
+ <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
+
 
 </div>
 
---
+---
 
 ### :fire: My Stats :
 
