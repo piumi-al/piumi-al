@@ -1,4 +1,4 @@
-### Hi there 👋 
+## Hi there 👋 
 
 
 - :girl: I'm Piumi
@@ -7,13 +7,14 @@
 - 💬 Ask me about HTML , CSS , Js , Boostrap , PHP , Java and React.
 
 
-### connect with me :
+### Connect with me :
+
+https://www.linkedin.com/sharing/share-offsite/?url={url}
+https://www.facebook.com/sharer.php?u={url}
 
 
 
-
-
-## Languages and Tools
+### Languages and Tools :
 
 
 
