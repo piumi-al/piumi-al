@@ -7,25 +7,22 @@
 - 🌱 I’m currently learning  Test design and Automation Testing.
 - 💬 Ask me about HTML , CSS , Js , Boostrap , PHP , Java and React.
 
----
+___
 
 ### Connect with me :
 
 
 <div>
 
-[![twitter](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg)][1]
-[![linkedin](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg)][2]
-[![facebook](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg)][3]
+<a href="https://twitter.com/PiumiAlu"><img src="https://img.icons8.com/color/2x/twitter--v1.png"  height="40" width="40" ></a>
+<a href="https://www.linkedin.com/in/piumi-aluvihare-1067261b9/"><img src="https://img.icons8.com/color/2x/linkedin.png" height="40" width="40" ></a>
+<a href="url"><img src="https://img.icons8.com/color/2x/instagram-new--v1.png"  height="40" width="40" ></a>
+<a href="url"><img src="https://img.icons8.com/color/2x/facebook-new.png"  height="40" width="40" ></a>  
 
-
-[1]: https://twitter.com/PiumiAlu
-[2]: https://www.linkedin.com/in/piumi-aluvihare-1067261b9/
-[3]: https://www.facebook.com/your_contact_info
 
 </div>  
 
----
+___
 
 ### Languages and Tools :
 
@@ -51,7 +48,7 @@
 
 </div>
 
----
+___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piumi-al&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
