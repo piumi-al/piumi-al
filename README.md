@@ -16,14 +16,12 @@
 
 [![twitter](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg)][1]
 [![linkedin](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg)][2]
-<!-- [![instagram](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg)][3] -->
-[![facebook](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg)][4]
+[![facebook](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg)][3]
 
 
 [1]: https://twitter.com/PiumiAlu
 [2]: https://www.linkedin.com/in/piumi-aluvihare-1067261b9/
-[3]: https://www.linkedin.com/in/your_contact_info
-[4]: https://www.facebook.com/your_contact_info
+[3]: https://www.facebook.com/your_contact_info
 
 </div>  
 
