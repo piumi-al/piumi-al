@@ -12,9 +12,13 @@
 ### Connect with me :
 
 
-https://www.linkedin.com/sharing/share-offsite/?url={url}
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" title="facebook" alt="facebook" width="40" height="40"/>&nbsp;
-          
+
+<div>
+<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"  title="facebook" alt="facebook" width="40" height="40"/>&nbsp;
+<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" title="facebook" alt="facebook" width="40" height="40"/>&nbsp;
+<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" title="facebook" alt="facebook" width="40" height="40"/>&nbsp;
+<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" title="facebook" alt="facebook" width="40" height="40"/>&nbsp;    
+</div>          
 ---
 
 ### Languages and Tools :
@@ -33,6 +37,7 @@ https://www.linkedin.com/sharing/share-offsite/?url={url}
  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
+                                                                                                                                             https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/AdobeXD.svg
 
 
 </div>
