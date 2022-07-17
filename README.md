@@ -39,12 +39,7 @@ https://www.linkedin.com/sharing/share-offsite/?url={url}
 
 ---
 
-###  My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piumi-al)](https://github.com/anuraghazra/github-readme-stats)
-                                                                                                                                             
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)                                                                                                                                            
-                                                                                                                                                                       [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=piumi-al&theme=cobalt&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piumi-al&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
