@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-###  About me :
+
 
 - :girl: I'm Piumi
 - 🔭 I’m currently working on java and new technologies.
@@ -13,10 +13,23 @@
 
 
 <div>
+
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"  title="facebook" alt="facebook" width="40" height="40"/>&nbsp;
 <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" title="facebook" alt="facebook" width="40" height="40"/>&nbsp;
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" title="facebook" alt="facebook" width="40" height="40"/>&nbsp;
-<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" title="facebook" alt="facebook" width="40" height="40"/>&nbsp;    
+<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" title="facebook" alt="facebook" width="40" height="40"/>&nbsp; -->
+
+[![twitter](https://img.icons8.com/external-justicon-flat-justicon/2x/external-twitter-social-media-justicon-flat-justicon.png)][1]
+[![linkedin](https://img.icons8.com/color/2x/linkedin.png)][2]
+[![instagram](https://img.icons8.com/fluency/2x/instagram-new.png)][3]
+[![facebook](https://img.icons8.com/external-justicon-flat-justicon/2x/external-facebook-social-media-justicon-flat-justicon.png)][4]
+
+
+[1]: https://twitter.com/your_contact_info
+[2]: https://linkedin.com/your_contact_info
+[3]: https://www.linkedin.com/in/your_contact_info
+[4]: https://www.facebook.com/your_contact_info
+
 </div>  
 
 ---
@@ -28,6 +41,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
