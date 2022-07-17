@@ -2,13 +2,9 @@
 
 
 
-- 
+- :girl: I'm Piumi
 - 🔭 I’m currently working on java and new technologies.
-- 🌱 I’m currently learning  Test design and Testing (Automation).
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning  Test design and Automation Testing.
 - 💬 Ask me about HTML , CSS , Js , Boostrap , PHP , Java and React
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
