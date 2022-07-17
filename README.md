@@ -32,13 +32,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDb" alt="MongoDb" width="40 height="40"/>&nbsp;
- <img src=" https://www.kindpng.com/picc/m/197-1973236_microsoft-sql-server-icons-sql-server-2008-hd.png" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+ <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
- <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/AdobeXD.svg" title="Figma" **alt="Figma" width="40" height="40"/>                        <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" title="Figma" **alt="Figma" width="40" height="40"/>     <img src="https://iconape.com/wp-content/png_logo_vector/selenium-logo.png" title="Figma" **alt="Figma" width="40" height="40"/>                                                    
+ <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/AdobeXD.svg" title="xd" **alt="xd" width="40" height="40"/>                       
+  <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" title="postman" **alt="postman" width="40" height="40"/>     
+  <img src="https://iconape.com/wp-content/png_logo_vector/selenium-logo.png" title="selenium" **alt="selenium" width="40" height="40"/>                                                    
 
 </div>
 
