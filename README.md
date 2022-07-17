@@ -13,11 +13,11 @@
 
 
 https://www.linkedin.com/sharing/share-offsite/?url={url}
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" title="facebook" alt="facebook" width="40" height="40"/>&nbsp;
           
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -39,9 +39,11 @@ https://www.linkedin.com/sharing/share-offsite/?url={url}
 
 ---
 
-### :fire: My Stats :
+###  My Stats :
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piumi-al)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=piumi-al&theme=cobalt&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
