@@ -16,7 +16,7 @@
 
 [![twitter](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg)][1]
 [![linkedin](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg)][2]
-[![instagram](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg)][3]
+<!-- [![instagram](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg)][3] -->
 [![facebook](https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg)][4]
 
 
